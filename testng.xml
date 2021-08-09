@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testing Calculator">
+<test name ="Functional">
+<classes>
+     <class name="a.MultiplicationTest"/>
+     <class name="a.AdditionTest"/>
+     <class name="a.SubtractionTest"/>
+     <class name="a.DivisionTest"/>
+</classes>
+</test>
+</suite>
+<!--comment-->
